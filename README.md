@@ -1,15 +1,13 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 2
 
-# Homework 
-```Ödev```
+## Homework
 
+```OOP ile bir proje geliştirmek```
 
 ## Homework Description
 
-```Ödev Açıklaması ```
-
+```OOP ile MVVM mimarisi temel alınarak basit bir film listesi oluşturabileceğiniz platform. Üye ve admin ekleme, silme işlemleri kullanılabilir. Güncelleme fonksiyonu var ama kullanıma açılmadı. Ayrıca, Film ekleme ve silme işlemleri kullanılabilir. Dizi işlemlerinin fonksiyonu var ama kullanıma açılmadı.```
 
 ## Author
 
-```Ödevi yapan```
+```Fatih BARAÇKILIÇ```
